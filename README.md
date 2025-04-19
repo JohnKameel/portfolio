@@ -1,16 +1,16 @@
-# appbar
+# 💼 Flutter Portfolio App
 
-A new Flutter project.
+This is a responsive **Flutter Portfolio App** that showcases your skills, projects, and resume in a clean and modern layout. Built with Flutter and designed to work across multiple screen sizes (mobile, tablet, web).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📱 Responsive design (mobile, tablet, desktop)
+- 👤 About section with profile picture
+- 🧠 Skills and tech stack overview
+- 📂 Featured projects with images and descriptions
+- 📄 Downloadable resume button
+- 🎯 Clean architecture & reusable widgets
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
